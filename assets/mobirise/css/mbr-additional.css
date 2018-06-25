@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+
+#menu-0 .navbar-toggler {
+  color: #000000;
+}
+#menu-0 .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 22px;
+}
+#header1-1 P {
+  text-align: right;
+}
+#header1-1 I {
+  font-family: 'Indie Flower', cursive;
+  color: #5bc0de;
+}
+#header1-1 H1 {
+  color: #0275d8;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+#menu-8 .navbar-toggler {
+  color: #000000;
+}
+#menu-8 .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 22px;
+}
+#content4-c P {
+  text-align: left;
+  font-size: 18px;
+}
+#header2-d H1 {
+  font-size: 22px;
+}
+#header2-d P {
+  text-align: right;
+}
+#header2-d DIV {
+  font-size: 24px;
+}
+#header2-e H1 {
+  font-size: 24px;
+}
+#header2-e P {
+  text-align: right;
+}
