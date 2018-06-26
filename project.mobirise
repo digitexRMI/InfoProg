@@ -53,7 +53,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">InfoProg</a>",
+          "brand": "<a class=\"navbar-brand text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">InfoProg</a>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -208,7 +208,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">InfoProg</a>",
+          "brand": "<a class=\"navbar-brand text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">InfoProg</a>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
